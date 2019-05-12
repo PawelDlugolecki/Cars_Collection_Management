@@ -1,0 +1,97 @@
+[
+  {
+    "model": "HONDA",
+    "price": 120000,
+    "mileage": 50000,
+    "colour": "WHITE",
+    "equipment": [
+      "ABS",
+      "ESR",
+      "REFLEKTOR LED",
+      "LAKIER",
+      "HAK"
+    ]
+  },
+  {
+    "model": "FIAT",
+    "price": 97000,
+    "mileage": 10000,
+    "colour": "BLUE",
+    "equipment": [
+      "ABS",
+      "AUDI SYSTEM SOUND"
+    ]
+  },
+  {
+    "model": "AUDI",
+    "price": 81500,
+    "mileage": 50000,
+    "colour": "WHITE",
+    "equipment": [
+      "ABS",
+      "LAKIER METALIK",
+      "AUDI SYSTEM SOUND"
+    ]
+  },
+  {
+    "model": "SKODA",
+    "price": 180000,
+    "mileage": 120000,
+    "colour": "WHITE",
+    "equipment": [
+      "ABS",
+      "ESR",
+      "SKODA PAKIET ZIMOWY"
+    ]
+  },
+  {
+    "model": "VOLKSWAGEN",
+    "price": 150000,
+    "mileage": 150000,
+    "colour": "BLUE",
+    "equipment": [
+      "ABS",
+      "ESR",
+      "REFLEKTOR LED",
+      "LAKIER METALIK",
+      "BOSE SYSTEM"
+    ]
+  },
+    {
+      "model": "BMW",
+      "price": 240000,
+      "mileage": 50000,
+      "colour": "WHITE",
+      "equipment": [
+        "ABS",
+        "ESR",
+        "REFLEKTOR LED",
+        "TV TUNER",
+        "SPORTOWE ZAWIESZENIE",
+        "RADIO",
+        "HAK"
+      ]
+    },
+    {
+      "model": "AUDI",
+      "price": 970000,
+      "mileage": 10000,
+      "colour": "BLUE",
+      "equipment": [
+        "ABS",
+        "AUDI SYSTEM SOUND"
+      ]
+    },
+    {
+      "model": "SUZUKI",
+      "price": 20000,
+      "mileage": 80000,
+      "colour": "SILVER",
+      "equipment": [
+        "ABS",
+        "LAKIER METALIK"
+      ]
+    }
+  ]
+
+

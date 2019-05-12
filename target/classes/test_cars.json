@@ -1,0 +1,38 @@
+[
+  {
+    "model": "HONDA",
+    "price": 120000,
+    "mileage": 50000,
+    "colour": "WHITE",
+    "equipment": [
+      "ABS",
+      "ESR",
+      "REFLEKTOR LED",
+      "LAKIER",
+      "HAK"
+    ]
+  },
+  {
+    "model": "AUDI",
+    "price": 97000,
+    "mileage": 10000,
+    "colour": "BLUE",
+    "equipment": [
+        "ABS",
+        "AUDI SYSTEM SOUND"
+    ]
+  },
+  {
+    "model": "MAZDA",
+    "price": 91500,
+    "mileage": 30000,
+    "colour": "SILVER",
+    "equipment": [
+      "ABS",
+      "LAKIER METALIK",
+      "AUDI SYSTEM SOUND"
+    ]
+  }
+]
+
+
